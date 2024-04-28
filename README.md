@@ -10,6 +10,8 @@ The fluid swirl animation is a mesmerizing visual experience crafted using web t
 
 Check out the live demo [here](https://roaring-hotteok-11f773.netlify.app/).
 
+Note: You have to click and hover in the background to experince the effect.
+
 ## Usage
 
 To use this animation in your project, simply include the HTML, CSS, and JavaScript files in your project directory. You can then customize the animation by tweaking the CSS styles or modifying the JavaScript code.
