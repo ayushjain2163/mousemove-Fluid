@@ -1,7 +1,6 @@
 # mousemove-Fluid
 Fluid swirl MouseMove animation created using HTML, CSS, and JavaScript.
 
-![Fluid Swirl Animation](https://roaring-hotteok-11f773.netlify.app/)
 
 ## Description
 
