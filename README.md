@@ -19,7 +19,4 @@ To use this animation in your project, simply include the HTML, CSS, and JavaScr
 
 This project was inspired by various fluid animation experiments and tutorials found online. Special thanks to the creators of those resources for their valuable insights and techniques.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
